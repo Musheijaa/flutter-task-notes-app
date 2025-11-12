@@ -1,4 +1,14 @@
-Flutter Task Notes Manager
+**NAME**:MUSHEIJA ABRAHAM
+
+
+
+**STUDENT NO**:2300712139
+
+
+
+**REG NO**:23/U/12139/EVE
+
+**Flutter Task Notes Manager**
 Project Overview
 
 The **Task Notes Manager** is a lightweight Flutter application built to help users organize their daily tasks and notes with ease.
